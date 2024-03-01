@@ -2,3 +2,4 @@
 ejercicios de clase
 
 SEGUNDO CAMBIO
+fruta
