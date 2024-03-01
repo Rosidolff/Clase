@@ -1,5 +1,5 @@
 # Clase
 ejercicios de clase
 
-SEGUNDO CAMBIO
+SEGUNDO CAMBIO para pull rebase
 fruta
